@@ -21,7 +21,7 @@ Each state has a total cost that is the sum of the weight of the edge with the c
 
 ![alt tag](http://2.bp.blogspot.com/-u0-RNtoPM-Q/VOuIsUGNxRI/AAAAAAAAESw/er-seftftq0/s1600/image.png)
 
-The code was done in the Python language.
+The code was done in the Python language. In the function "build_pancakes" (file main.py) is possible to pass the amount of pancakes and a difference of size between the pancakes to a better visualization. In the function "run" is possible to pass a time waiting to visualize more slowly.
 
 Looks the animation: https://www.youtube.com/watch?v=kk-_DDgoXfk
 
