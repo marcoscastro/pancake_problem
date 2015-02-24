@@ -1,0 +1,4 @@
+Some references about pancake problem:
+
+Graphic visualization: https://www.youtube.com/watch?v=kk-_DDgoXfk
+Course Artificial Intelligence: https://www.youtube.com/watch?v=hq3GyBw4jfo
